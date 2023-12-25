@@ -145,7 +145,7 @@ $jobexpired = false;
 	<link href="css/style.css" rel="stylesheet">
 
 	 <script type="text/javascript">
- function update(str) {
+ function (str) {
   var videoLink = prompt("Enter the video URL:");
   if (videoLink !== null) {
     var txt;

@@ -457,7 +457,7 @@ header("location:../");
 												<div class="clear"></div>
 
 												<div class="col-sm-12 mt-10">
-													<button type="submit" class="btn btn-primary">Update</button>
+													<button type="submit" class="btn btn-primary">Save</button>
 													<button type="reset" class="btn btn-primary btn-inverse">Cancel</button>
 												</div>
 
@@ -479,7 +479,7 @@ header("location:../");
 										<div class="clear"></div>
 
 										<div class="col-sm-12 mt-10">
-										<button type="submit" class="btn btn-primary">Update</button>
+										<button type="submit" class="btn btn-primary">Upload</button>
 										<?php 
 										if ($myavatar == null) {
 
